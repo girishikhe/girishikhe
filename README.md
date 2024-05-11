@@ -1,5 +1,5 @@
 Hi 👋 I am Girish Sanjay Ikhe.
-I am working as  Data Analyst Intern at Gamaka AI Solutions
+I am working as  Data Analyst trainee at Secular software private limited, pune
 I am passionate about stuff like Data analytics,Data visualization,Machine Learning & Deep Learning. 
 Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflow. I am actively looking for opportunities in Data Science.
 
